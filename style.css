@@ -1,0 +1,12 @@
+#grid {
+  height: 300px;
+  width: 400px;
+ 
+  position: absolute;
+  left: 30%;
+  top: 30%;
+}
+
+img{
+    cursor:pointer;
+}
